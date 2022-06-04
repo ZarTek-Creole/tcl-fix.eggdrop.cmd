@@ -10,7 +10,7 @@
 
 
 #########
-# HOMEPAGE : https://github.com/MalaGaM/tcl-fix.eggdrop.cmd
+# HOMEPAGE : https://github.com/ZarTek-Creole/tcl-fix.eggdrop.cmd
 #
 # Si vous aussi vous comprenez rien au commandes eggdrop;
 # [bot ] commands pour bots
